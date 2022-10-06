@@ -1,4 +1,4 @@
-## Hi ! I'm Wassim from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/> Engineering Student and FullStack Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> 
+## Hi ! I'm Wassim from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/> FullStack Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> 
 
 🎓 <b> Graduated from the Higher Institute of Technological Studies of Nabeul, Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia-circular.png"/>
 
