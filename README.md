@@ -45,8 +45,6 @@
 
 
   
-### &nbsp; MORE INFO
-   website : https://wassimmriri.herokuapp.com/
    
  ### &nbsp; CONTACT 
   
