@@ -6,7 +6,7 @@
 
 
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: Web & Mobile development
-- 🌱 I’m currently working with React native <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/langfr-220px-React-icon.svg.png"/> and Laravel  <img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"/>  ! 
+- 🌱 I’m currently working with Angular and SpringBoot ! 
 - 📫 How to reach me: wassim.mriri@gmail.com
 
   
