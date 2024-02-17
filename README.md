@@ -1,16 +1,8 @@
-## Hi ! I'm Wassim from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/> FullStack Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/> 
-
-🎓 <b> Graduated from the Higher Institute of Technological Studies of Nabeul, Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia-circular.png"/>
-
-   
-
+## Hi ! I'm Wassim from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/> Angular Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/>    
 
 - <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: Web & Mobile development
 - 🌱 I’m currently working with Angular and SpringBoot ! 
 - 📫 How to reach me: wassim.mriri@gmail.com
-
-  
-  
   
  ## <img src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/30/000000/external-tools-carpentry-icongeek26-outline-colour-icongeek26.png"/>   My Programming Language
 
