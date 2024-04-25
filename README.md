@@ -1,10 +1,10 @@
-## Hi ! I'm Wassim from Tunisia <img src="https://img.icons8.com/color/20/000000/tunisia.png"/> Angular Developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/>    
+## Hi ! I'm Wassim, a full time Angular developer <img src="https://img.icons8.com/color-glass/30/000000/developer.png"/>    
 
-- <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested: Web & Mobile development
-- 🌱 I’m currently working with Angular and SpringBoot ! 
+- <img src="https://img.icons8.com/external-victoruler-flat-victoruler/25/000000/external-interest-business-and-finance-victoruler-flat-victoruler.png"/> Interested in: Web & Mobile development
+- 🌱 I do side projects in react native, deep learning, devops ! 
 - 📫 How to reach me: wassim.mriri@gmail.com
   
- ## <img src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/30/000000/external-tools-carpentry-icongeek26-outline-colour-icongeek26.png"/>   My Programming Language
+ ## <img src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/30/000000/external-tools-carpentry-icongeek26-outline-colour-icongeek26.png"/>   My Programming Languages on Github
 
   <p> 
   
@@ -41,9 +41,7 @@
  ### &nbsp; CONTACT 
   
 [<img src="https://img.icons8.com/color/30/4a90e2/linkedin.png"/>][linkedin]
-[<img src="https://img.icons8.com/fluency/30/4a90e2/instagram-new.png"/>][instagram]
 
-[instagram]: https://www.instagram.com/wassimmriri/
 [linkedin]: https://www.linkedin.com/in/wassim-mriri/
 
 
