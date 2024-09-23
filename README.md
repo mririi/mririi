@@ -33,8 +33,8 @@
    
 <a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=16949497&theme=swift" alt="stack overflow stat"></a>
 
-
-  
+ ## ⚙️ &nbsp;Daily Dev
+<a href="https://app.daily.dev/mririi"><img src="https://api.daily.dev/devcards/v2/lj63zxYhimtHCgfeOq3Ap.png?type=wide&r=00v" width="652" alt="Wassim Mriri's Dev Card"/></a>
    
  ### &nbsp; CONTACT 
   
